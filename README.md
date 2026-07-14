@@ -1,55 +1,34 @@
-# Python DSA
+# 🐍 Python DSA
 
 A collection of Python programs and Data Structures & Algorithms (DSA) implementations.
 
-## 📌 About
+## 📚 Topics Covered
 
-This repository contains Python programs for learning and practicing:
+- ✅ Input & Output
+- ✅ If-Else
+- ✅ Match-Case (Switch Case)
+- ⏳ Loops
+- ⏳ Functions
+- ⏳ Arrays
+- ⏳ Strings
+- ⏳ Sorting
+- ⏳ Searching
+- ⏳ OOP
 
-- Python Basics
-- Input & Output
-- Conditional Statements
-- Loops
-- Functions
-- Object-Oriented Programming
-- Searching Algorithms
-- Sorting Algorithms
-- Data Structures
-- Problem Solving
+## 📝 Daily Progress
 
-## 📂 Folder Structure
+| Day | Topic | Status |
+|------|-------|--------|
+| Day 1 | Input & Output | ✅ |
+| Day 2 | If-Else | ✅ |
+| Day 2 | Match-Case (Switch Case) | ✅ |
 
-```
-Python_DSA/
-│── README.md
-│── Basics/
-│── Sorting/
-│── Searching/
-│── Arrays/
-│── Strings/
-│── Linked_List/
-│── Stack/
-│── Queue/
-│── Trees/
-│── Graphs/
-```
+## 🎯 Goal
 
-## 🛠️ Technologies Used
+- Learn Python from Basics to Advanced
+- Master Data Structures & Algorithms
+- Prepare for Coding Interviews and Placements
 
-- Python 3.x
-- Visual Studio Code
-
-## 🎯 Purpose
-
-This repository is created to:
-- Practice Python programming
-- Learn Data Structures & Algorithms
-- Prepare for coding interviews and placements
-
-## 🚀 Author
+## 👩‍💻 Author
 
 **Elakiya**
-
----
-
-⭐ If you find this repository useful, feel free to star it!
