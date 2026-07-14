@@ -1,18 +1,55 @@
-# Python_DSA
+# Python DSA
 
-Daily DSA practice - Python. Striver A2Z sheet + HackerRank problems.
+A collection of Python programs and Data Structures & Algorithms (DSA) implementations.
 
-## Progress Table
+## 📌 About
 
-| Date | Problem | Topic | File | Approach | Time Complexity |
-|-------|---------|-------|------|----------|-----------------|
-| 11/07/2026 | Bubble Sort | Sorting | bubble_sort.py | Adjacent swap, repeat till sorted | O(n²) |
-| 12/07/2026 | Selection Sort | Sorting | selection_sort.py | Find min, swap to front | O(n²) |
-| 13/07/2026 | Input/Output | Basics | input_output.py | Python I/O methods practice | - |
+This repository contains Python programs for learning and practicing:
 
-## Topics Covered
-- Sorting: Bubble Sort, Selection Sort
-- Basics: I/O handling
+- Python Basics
+- Input & Output
+- Conditional Statements
+- Loops
+- Functions
+- Object-Oriented Programming
+- Searching Algorithms
+- Sorting Algorithms
+- Data Structures
+- Problem Solving
 
-## Goal
-Placement prep - Amazon/Flipkart ML Engineering roles
+## 📂 Folder Structure
+
+```
+Python_DSA/
+│── README.md
+│── Basics/
+│── Sorting/
+│── Searching/
+│── Arrays/
+│── Strings/
+│── Linked_List/
+│── Stack/
+│── Queue/
+│── Trees/
+│── Graphs/
+```
+
+## 🛠️ Technologies Used
+
+- Python 3.x
+- Visual Studio Code
+
+## 🎯 Purpose
+
+This repository is created to:
+- Practice Python programming
+- Learn Data Structures & Algorithms
+- Prepare for coding interviews and placements
+
+## 🚀 Author
+
+**Elakiya**
+
+---
+
+⭐ If you find this repository useful, feel free to star it!
