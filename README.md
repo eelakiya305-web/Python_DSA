@@ -1,4 +1,4 @@
-# 🐍 Python DSA
+# Python DSA
 
 A collection of Python programs and Data Structures & Algorithms (DSA) implementations.
 
@@ -7,7 +7,7 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 - ✅ Input & Output
 - ✅ If-Else
 - ✅ Match-Case (Switch Case)
-- ⏳ Loops
+- ✅ Loops
 - ⏳ Functions
 - ⏳ Arrays
 - ⏳ Strings
@@ -18,10 +18,11 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 ## 📝 Daily Progress
 
 | Day | Topic | Status |
-|------|-------|--------|
+|------|----------------------------|--------|
 | Day 1 | Input & Output | ✅ |
 | Day 2 | If-Else | ✅ |
 | Day 2 | Match-Case (Switch Case) | ✅ |
+| Day 3 | Loops | ✅ |
 
 ## 🎯 Goal
 
