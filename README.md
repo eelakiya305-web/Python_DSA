@@ -28,13 +28,14 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 ## 📝 Daily Progress
 
 | Day | Topic | Problem Solved | Status |
-|:---:|-------|----------------|:------:|
+|-----|-------|----------------|--------|
 | 1 | Input & Output | Basic Input & Output | ✅ |
 | 2 | If-Else | Conditional Statements | ✅ |
 | 3 | Match-Case | Python's Switch Alternative | ✅ |
 | 4 | Loops | For Loop & While Loop | ✅ |
 | 5 | Arrays | Reverse Array (In-Place using Two Pointers) | ✅ |
 | 6 | Basic Math | Count Number of Digits | ✅ |
+| 7 | Basic Math | Reverse Number | ✅ |
 
 ---
 
@@ -50,15 +51,15 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 ## 🛠️ Language
 
-- Python 🐍
+**Python 🐍**
 
 ---
 
 ## 📈 Progress
 
-- **Days Completed:** 6/365
-- **Current Topic:** Basic Math
-- **Next Topic:** Basic Math (Reverse Number)
+- **Days Completed:** **7/365**
+- **Current Topic:** **Basic Math**
+- **Next Topic:** **Count Digits that Evenly Divide a Number**
 
 ---
 
@@ -66,4 +67,6 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 **Elakiya**
 
-> *"Consistency beats perfection. One problem every day!"* 🌱
+---
+
+> **"Consistency beats perfection. One problem every day!" 🌱**
