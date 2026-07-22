@@ -1,5 +1,4 @@
 # Python DSA 🚀
-
 A collection of Python programs and Data Structures & Algorithms (DSA) implementations. This repository documents my daily journey of learning Python from basics to advanced and solving DSA problems consistently.
 
 ## 📚 Topics Covered
@@ -22,8 +21,6 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 ⏳ Graphs  
 ⏳ Dynamic Programming  
 
----
-
 ## 📝 Daily Progress
 
 | Day | Topic | Problem Solved | Status |
@@ -37,35 +34,24 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 | 7 | Basic Math | Reverse Number | ✅ |
 | 8 | Basic Math | Palindrome Number | ✅ |
 | 9 | Basic Math | GCD of Two Numbers (Euclidean Algorithm) | ✅ |
-
----
+| 10 | Basic Math | Armstrong Number | ✅ |
 
 ## 🎯 Goals
-
 - 📘 Learn Python from Basics to Advanced
 - 💻 Master Data Structures & Algorithms
 - 🧩 Solve Coding Problems Daily
 - 🚀 Prepare for Coding Interviews and Placements
 - 📅 Stay Consistent for 365 Days
 
----
-
 ## 🛠️ Language
-
 **Python 🐍**
 
----
-
 ## 📈 Progress
-
-- **Days Completed:** **9/365**
-- **Current Topic:** **Basic Math**
-- **Next Topic:** **Armstrong Number**
-
----
+- **Days Completed:** **10/365**
+- **Current Topic:** Basic Math
+- **Next Topic:** Perfect Number
 
 ## 👩‍💻 Author
-
 **Elakiya**
 
 > **"Consistency beats perfection. One problem every day!" 🌱**
