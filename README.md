@@ -4,40 +4,41 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 ## 📚 Topics Covered
 
-✅ Input & Output
-✅ If-Else
-✅ Match-Case (Python's Switch Alternative)
-✅ Loops
-✅ Arrays
-✅ Basic Math
-⏳ Functions
-⏳ Strings
-⏳ Sorting
-⏳ Searching
-⏳ OOP
-⏳ Recursion
-⏳ Linked List
-⏳ Stack
-⏳ Queue
-⏳ Trees
-⏳ Graphs
-⏳ Dynamic Programming
+✅ Input & Output  
+✅ If-Else  
+✅ Match-Case (Python's Switch Alternative)  
+✅ Loops  
+✅ Arrays  
+✅ Basic Math  
+⏳ Functions  
+⏳ Strings  
+⏳ Sorting  
+⏳ Searching  
+⏳ OOP  
+⏳ Recursion  
+⏳ Linked List  
+⏳ Stack  
+⏳ Queue  
+⏳ Trees  
+⏳ Graphs  
+⏳ Dynamic Programming  
 
 ## 📝 Daily Progress
 
-| Day | Topic          | Problem Solved                              | Status |
-| --- | -------------- | ------------------------------------------- | ------ |
-| 1   | Input & Output | Basic Input & Output                        | ✅      |
-| 2   | If-Else        | Conditional Statements                      | ✅      |
-| 3   | Match-Case     | Python's Switch Alternative                 | ✅      |
-| 4   | Loops          | For Loop & While Loop                       | ✅      |
-| 5   | Arrays         | Reverse Array (In-Place using Two Pointers) | ✅      |
-| 6   | Basic Math     | Count Number of Digits                      | ✅      |
-| 7   | Basic Math     | Reverse Number                              | ✅      |
-| 8   | Basic Math     | Palindrome Number                           | ✅      |
-| 9   | Basic Math     | GCD of Two Numbers (Euclidean Algorithm)    | ✅      |
-| 10  | Basic Math     | Armstrong Number                            | ✅      |
-| 11  | Basic Math     | Print All Divisors & Sum of All Divisors    | ✅      |
+| Day | Topic | Problem Solved | Status |
+| --- | ----- | -------------- | ------ |
+| 1 | Input & Output | Basic Input & Output | ✅ |
+| 2 | If-Else | Conditional Statements | ✅ |
+| 3 | Match-Case | Python's Switch Alternative | ✅ |
+| 4 | Loops | For Loop & While Loop | ✅ |
+| 5 | Arrays | Reverse Array (In-Place using Two Pointers) | ✅ |
+| 6 | Basic Math | Count Number of Digits | ✅ |
+| 7 | Basic Math | Reverse Number | ✅ |
+| 8 | Basic Math | Palindrome Number | ✅ |
+| 9 | Basic Math | GCD of Two Numbers (Euclidean Algorithm) | ✅ |
+| 10 | Basic Math | Armstrong Number | ✅ |
+| 11 | Basic Math | Print All Divisors & Sum of All Divisors | ✅ |
+| 12 | Basic Math | Prime Number Check | ✅ |
 
 ## 🎯 Goals
 
@@ -53,9 +54,9 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 ## 📈 Progress
 
-* **Days Completed:** **11/365**
+* **Days Completed:** **12/365**
 * **Current Topic:** Basic Math
-* **Next Topic:** Prime Number
+* **Next Topic:** Check if a Number is Perfect
 
 ## 👩‍💻 Author
 
