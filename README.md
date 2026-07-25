@@ -10,6 +10,7 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 ✅ Loops  
 ✅ Arrays  
 ✅ Basic Math  
+✅ Patterns  
 ⏳ Functions  
 ⏳ Strings  
 ⏳ Sorting  
@@ -39,14 +40,15 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 | 10 | Basic Math | Armstrong Number | ✅ |
 | 11 | Basic Math | Print All Divisors & Sum of All Divisors | ✅ |
 | 12 | Basic Math | Prime Number Check | ✅ |
+| 13 | Patterns | Square Star Pattern, Right Triangle Star Pattern, Number Triangle Pattern, Repeated Number Triangle, Inverted Star Triangle | ✅ |
 
 ## 🎯 Goals
 
-* 📘 Learn Python from Basics to Advanced
-* 💻 Master Data Structures & Algorithms
-* 🧩 Solve Coding Problems Daily
-* 🚀 Prepare for Coding Interviews and Placements
-* 📅 Stay Consistent for 365 Days
+- 📘 Learn Python from Basics to Advanced
+- 💻 Master Data Structures & Algorithms
+- 🧩 Solve Coding Problems Daily
+- 🚀 Prepare for Coding Interviews and Placements
+- 📅 Stay Consistent for 365 Days
 
 ## 🛠️ Language
 
@@ -54,9 +56,9 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 ## 📈 Progress
 
-* **Days Completed:** **12/365**
-* **Current Topic:** Basic Math
-* **Next Topic:** Check if a Number is Perfect
+- **Days Completed:** **13/365**
+- **Current Topic:** Patterns
+- **Next Topic:** Character Patterns
 
 ## 👩‍💻 Author
 
