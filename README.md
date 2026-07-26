@@ -4,51 +4,52 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 ## 📚 Topics Covered
 
-✅ Input & Output  
-✅ If-Else  
-✅ Match-Case (Python's Switch Alternative)  
-✅ Loops  
-✅ Arrays  
-✅ Basic Math  
-✅ Patterns  
-⏳ Functions  
-⏳ Strings  
-⏳ Sorting  
-⏳ Searching  
-⏳ OOP  
-⏳ Recursion  
-⏳ Linked List  
-⏳ Stack  
-⏳ Queue  
-⏳ Trees  
-⏳ Graphs  
-⏳ Dynamic Programming  
+* ✅ Input & Output
+* ✅ If-Else
+* ✅ Match-Case (Python's Switch Alternative)
+* ✅ Loops
+* ✅ Arrays
+* ✅ Basic Math
+* ✅ Patterns
+* ⏳ Functions
+* ⏳ Strings
+* ⏳ Sorting
+* ⏳ Searching
+* ⏳ OOP
+* ⏳ Recursion
+* ⏳ Linked List
+* ⏳ Stack
+* ⏳ Queue
+* ⏳ Trees
+* ⏳ Graphs
+* ⏳ Dynamic Programming
 
 ## 📝 Daily Progress
 
-| Day | Topic | Problem Solved | Status |
-| --- | ----- | -------------- | ------ |
-| 1 | Input & Output | Basic Input & Output | ✅ |
-| 2 | If-Else | Conditional Statements | ✅ |
-| 3 | Match-Case | Python's Switch Alternative | ✅ |
-| 4 | Loops | For Loop & While Loop | ✅ |
-| 5 | Arrays | Reverse Array (In-Place using Two Pointers) | ✅ |
-| 6 | Basic Math | Count Number of Digits | ✅ |
-| 7 | Basic Math | Reverse Number | ✅ |
-| 8 | Basic Math | Palindrome Number | ✅ |
-| 9 | Basic Math | GCD of Two Numbers (Euclidean Algorithm) | ✅ |
-| 10 | Basic Math | Armstrong Number | ✅ |
-| 11 | Basic Math | Print All Divisors & Sum of All Divisors | ✅ |
-| 12 | Basic Math | Prime Number Check | ✅ |
-| 13 | Patterns | Square Star Pattern, Right Triangle Star Pattern, Number Triangle Pattern, Repeated Number Triangle, Inverted Star Triangle | ✅ |
+| Day | Topic          | Problem Solved                                                | Status |
+| --- | -------------- | ------------------------------------------------------------- | ------ |
+| 1   | Input & Output | Basic Input & Output                                          | ✅      |
+| 2   | If-Else        | Conditional Statements                                        | ✅      |
+| 3   | Match-Case     | Python's Switch Alternative                                   | ✅      |
+| 4   | Loops          | For Loop & While Loop                                         | ✅      |
+| 5   | Arrays         | Reverse Array (In-Place using Two Pointers)                   | ✅      |
+| 6   | Basic Math     | Count Number of Digits                                        | ✅      |
+| 7   | Basic Math     | Reverse Number                                                | ✅      |
+| 8   | Basic Math     | Palindrome Number                                             | ✅      |
+| 9   | Basic Math     | GCD of Two Numbers (Euclidean Algorithm)                      | ✅      |
+| 10  | Basic Math     | Armstrong Number                                              | ✅      |
+| 11  | Basic Math     | Print All Divisors & Sum of All Divisors                      | ✅      |
+| 12  | Basic Math     | Prime Number Check                                            | ✅      |
+| 13  | Patterns       | Star & Number Patterns                                        | ✅      |
+| 14  | Patterns       | Case Study-Anagram,BinarySearch,BubbleSort,Calendar,ColorPicker,datetime,Dictionary,FLAMES,Fibonacci recursion,Hangman,MagicSquare,GuesstheWord,Montehall| ✅      |
 
 ## 🎯 Goals
 
-- 📘 Learn Python from Basics to Advanced
-- 💻 Master Data Structures & Algorithms
-- 🧩 Solve Coding Problems Daily
-- 🚀 Prepare for Coding Interviews and Placements
-- 📅 Stay Consistent for 365 Days
+* 📘 Learn Python from Basics to Advanced
+* 💻 Master Data Structures & Algorithms
+* 🧩 Solve Coding Problems Daily
+* 🚀 Prepare for Coding Interviews and Placements
+* 📅 Stay Consistent for 365 Days
 
 ## 🛠️ Language
 
@@ -56,12 +57,12 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 ## 📈 Progress
 
-- **Days Completed:** **13/365**
-- **Current Topic:** Patterns
-- **Next Topic:** Character Patterns
+* **Days Completed:** **14/365**
+* **Current Topic:** **Functions**
+* **Next Topic:** **Strings**
 
 ## 👩‍💻 Author
 
 **Elakiya**
 
-> **"Consistency beats perfection. One problem every day!" 🌱**
+> *"Consistency beats perfection. One problem every day!"* 🌱
