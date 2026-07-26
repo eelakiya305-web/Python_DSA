@@ -7,7 +7,7 @@ while chances>0:
         if letter in guessed:
             display+=letter+""
         else:
-            display+="_"
+            display+="_" 
     print(display)
     if "_" not in display:
         print("you won!")
@@ -22,4 +22,4 @@ while chances>0:
     if chances==0:
         print("you lost")
         print(word)
-        
+
