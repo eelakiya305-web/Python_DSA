@@ -42,6 +42,7 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 | 12  | Basic Math     | Prime Number Check                                            | ✅      |
 | 13  | Patterns       | Star & Number Patterns                                        | ✅      |
 | 14  | Patterns       | Case Study-Anagram,BinarySearch,BubbleSort,Calendar,ColorPicker,datetime,Dictionary,FLAMES,Fibonacci recursion,Hangman,MagicSquare,GuesstheWord,Montehall| ✅      |
+| 15  | Sorting        | Selection sort                                                 | ✅      |
 
 ## 🎯 Goals
 
@@ -57,8 +58,8 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 ## 📈 Progress
 
-* **Days Completed:** **14/365**
-* **Current Topic:** **Functions**
+* **Days Completed:** **15/365**
+* **Current Topic:** **Sorting**
 * **Next Topic:** **Strings**
 
 ## 👩‍💻 Author
