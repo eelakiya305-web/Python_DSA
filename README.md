@@ -44,7 +44,8 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 | 14  | Patterns       | Case Study-Anagram,BinarySearch,BubbleSort,Calendar,ColorPicker,datetime,Dictionary,FLAMES,Fibonacci recursion,Hangman,MagicSquare,GuesstheWord,Montehall| ✅      |
 | 15  | Sorting        | Selection sort                                                 | ✅      |
 | 16  | Sorting        | Bubble sort                                                   |
-✅      |     
+✅      |    
+| 17  | Sorting        | Insertion sort                                                | ✅    | 
 
 ## 🎯 Goals
 
@@ -60,7 +61,7 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 ## 📈 Progress
 
-* **Days Completed:** **16/365**
+* **Days Completed:** **17/365**
 * **Current Topic:** **Sorting**
 * **Next Topic:** **Strings**
 
