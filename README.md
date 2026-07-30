@@ -46,14 +46,14 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 | 16  | Sorting        | Bubble sort                                                   |
 ✅      |    
 | 17  | Sorting        | Insertion sort                                                | ✅    | 
-
+| 18  | Sorting        | Merge sort                                                    | ✅     |
 ## 🎯 Goals
 
 * 📘 Learn Python from Basics to Advanced
 * 💻 Master Data Structures & Algorithms
 * 🧩 Solve Coding Problems Daily
 * 🚀 Prepare for Coding Interviews and Placements
-* 📅 Stay Consistent for 365 Days
+* 📅 Stay Consistent for 50 Days
 
 ## 🛠️ Language
 
@@ -61,7 +61,7 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 ## 📈 Progress
 
-* **Days Completed:** **17/365**
+* **Days Completed:** **18/50**
 * **Current Topic:** **Sorting**
 * **Next Topic:** **Strings**
 
