@@ -53,7 +53,7 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 * 💻 Master Data Structures & Algorithms
 * 🧩 Solve Coding Problems Daily
 * 🚀 Prepare for Coding Interviews and Placements
-* 📅 Stay Consistent for 50 Days
+* 📅 Stay Consistent for 18 Days
 
 ## 🛠️ Language
 
@@ -61,7 +61,7 @@ A collection of Python programs and Data Structures & Algorithms (DSA) implement
 
 ## 📈 Progress
 
-* **Days Completed:** **18/50**
+* **Days Completed:** **18/18**
 * **Current Topic:** **Sorting**
 * **Next Topic:** **Strings**
 
